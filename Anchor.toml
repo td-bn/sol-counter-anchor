@@ -1,0 +1,12 @@
+[programs.localnet]
+sol_counter = "Es65sS4zb1LBxSELqt1YjRLkw84craDz6VdJibmoxcsT"
+
+[registry]
+url = "https://anchor.projectserum.com"
+
+[provider]
+cluster = "localnet"
+wallet = "/home/bnabi/.config/solana/id.json"
+
+[scripts]
+test = "yarn test"
